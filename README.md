@@ -116,6 +116,8 @@ Important: the flake lives in a dedicated directory, never in `~`. A flake's sou
 }
 ```
 
+Customize your shells with packages that can be found here: https://search.nixos.org/packages?channel=unstable
+
 ## Step 2: Python tools
 
 The `ai` shell will install any dependencies listed in `~/dev/shell/requirements.txt`:
