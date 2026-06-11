@@ -2,6 +2,9 @@
 
 A single flake at `~/dev/shell` defines named, composable development environments. A `dev` command enters any of them from anywhere. The `ai` shell carries Python tooling and a LiteLLM gateway managed through `requirements.txt`, so fast-moving Python dependencies stay current without fighting nixpkgs lag.
 
+<img width="852" height="480" alt="Terminal" src="https://github.com/user-attachments/assets/7e37fe72-b2e9-4081-8a6c-d2c68003b986" />
+
+
 ## Prerequisites
 
 - macOS with [Determinate Nix](https://determinate.systems/nix) installed. Flakes are enabled out of the box; `nix-channel` is deprecated and unused here.
